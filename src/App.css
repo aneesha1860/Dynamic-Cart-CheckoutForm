@@ -1,0 +1,40 @@
+.checkout-form 
+{
+  max-width: 400px;
+  margin: 3rem auto;
+  padding: 1.5rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-family: sans-serif;
+}
+
+label 
+{
+  display: block;
+  margin-top: 1rem;
+  font-weight: bold;
+}
+
+select, input 
+{
+  width: 100%;
+  padding: 8px;
+  margin-top: 0.5rem;
+}
+
+button 
+{
+  margin-top: 1.5rem;
+  padding: 10px 15px;
+  background: #007bff;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.error 
+{
+  color: red;
+  font-size: 0.9rem;
+}
